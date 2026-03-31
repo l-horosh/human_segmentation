@@ -1,0 +1,10 @@
+ipywidgets
+matplotlib
+matplotlib-inline
+numpy
+opencv-python
+Pillow
+scikit-image
+torch
+torchvision
+tqdm
