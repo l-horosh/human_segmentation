@@ -3,4 +3,9 @@ people_data.zip
 _people_data_staging/
 __pycache__/
 *.pyc
-
+demo.zip
+Human_Segmentation.aux
+Human_Segmentation.log
+Human_Segmentation.out
+#Human_Segmentation.tex
+#Human_Segmentation.pdf

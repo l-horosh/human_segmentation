@@ -1,6 +1,6 @@
 {
-  "Full fine-tune (freeze 0)": 4350.2216796875,
-  "Freeze 1 block": 4007.47412109375,
-  "Freeze 2 blocks": 3850.18896484375,
-  "Freeze all encoder (4 blocks)": 3708.89599609375
+  "Full fine-tune (freeze 0)": 4336.3154296875,
+  "Freeze 1 block": 3995.34912109375,
+  "Freeze 2 blocks": 3839.97021484375,
+  "Freeze all encoder (4 blocks)": 3701.30224609375
 }
